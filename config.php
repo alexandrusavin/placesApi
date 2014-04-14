@@ -1,0 +1,3 @@
+<?php
+
+define("GOOGLE_LOCATION_API_KEY", "AIzaSyCiGF_2b_S-8gCfWW8FSZB6C4wt-GtoYUE");

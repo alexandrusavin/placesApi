@@ -1,4 +1,0 @@
-placesApi
-=========
-
-Google places API
